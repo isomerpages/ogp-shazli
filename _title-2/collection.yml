@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Subfolder 2/.keep
-      - Some Page in Title 2.md
