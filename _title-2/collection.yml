@@ -1,4 +1,5 @@
 collections:
   title-2:
     output: true
-    order: []
+    order:
+      - Some Page in Title 2.md
