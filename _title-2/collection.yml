@@ -2,4 +2,5 @@ collections:
   title-2:
     output: true
     order:
+      - Subfolder 2/Some Page in Title 2.md
       - Subfolder 2/.keep
