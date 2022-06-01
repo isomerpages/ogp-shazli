@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - page/.keep
-      - page/sub-page.md
+      - page/Sub Page 1.md
