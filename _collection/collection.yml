@@ -2,6 +2,6 @@ collections:
   collection:
     output: true
     order:
-      - page/Sub Page 2.md
       - page/.keep
       - page/Sub Page 1.md
+      - page/Sub Page 2.md
