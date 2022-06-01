@@ -4,9 +4,9 @@ links:
     url: /contact-us/
   - title: Page
     url: /Page/
+  - title: Some Other Page
+    url: /someotherpage
   - title: Collection
     collection: collection
   - title: Resource Room
     resource_room: true
-  - title: Some Other Page
-    url: /someotherpage
