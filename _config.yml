@@ -52,4 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://ogp-shazli-staging.netlify.app
 prod: https://ogp-shazli-prod.netlify.app
-is_government: false
+is_government: true
