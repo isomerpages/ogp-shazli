@@ -2,7 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Some Other Page
-    url: /someotherpage
   - title: Resource Room
     resource_room: true
