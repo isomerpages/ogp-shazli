@@ -4,7 +4,5 @@ links:
     url: /contact-us/
   - title: Some Other Page
     url: /someotherpage
-  - title: Collection
-    collection: collection
   - title: Resource Room
     resource_room: true
