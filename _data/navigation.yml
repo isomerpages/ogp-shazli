@@ -4,3 +4,5 @@ links:
     collection: shazli25
   - title: Newsroom
     resource_room: true
+  - title: Contact Us
+    url: /contact-us
