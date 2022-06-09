@@ -1,4 +1,5 @@
 collections:
   shazli25:
     output: true
-    order: []
+    order:
+      - Year of Celebrations.md
