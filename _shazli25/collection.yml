@@ -2,4 +2,5 @@ collections:
   shazli25:
     output: true
     order:
+      - Table of Events.md
       - Year of Celebrations.md
