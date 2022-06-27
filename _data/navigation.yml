@@ -2,6 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: Shazli25
     collection: shazli25
+  - title: Playground
+    collection: playground
   - title: Newsroom
     resource_room: true
   - title: Contact Us
