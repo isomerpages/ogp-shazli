@@ -2,4 +2,5 @@ collections:
   playground:
     output: true
     order:
+      - PHPC.md
       - Data(dot)gov(dot)sg.md
