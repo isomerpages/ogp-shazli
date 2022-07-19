@@ -4,7 +4,8 @@ title: Shazli from OGP
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Shazli's in the midst of toying around with this, some things may appear weird.
+notification: "1234567890123456789012345678901234567890123456789012345678901234\
+  567890123456789012345678901234567890123456789012345678901234567890"
 sections:
   - hero:
       title: Getting there
@@ -38,4 +39,3 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
-
