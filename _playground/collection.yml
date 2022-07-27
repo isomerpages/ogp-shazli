@@ -2,6 +2,7 @@ collections:
   playground:
     output: true
     order:
+      - Picture Size.md
       - Hyperlinks.md
       - PHPC.md
       - Data(dot)gov(dot)sg.md
