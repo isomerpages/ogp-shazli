@@ -4,8 +4,7 @@ title: Shazli from OGP
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: "1234567890123456789012345678901234567890123456789012345678901234\
-  567890123456789012345678901234567890123456789012345678901234567890"
+notification: <a href="https://www.w3schools.com">Visit W3Schools</a>
 sections:
   - hero:
       title: Getting there
