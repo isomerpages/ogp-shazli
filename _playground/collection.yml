@@ -2,6 +2,7 @@ collections:
   playground:
     output: true
     order:
+      - YouTube.md
       - Picture Size.md
       - Hyperlinks.md
       - PHPC.md
