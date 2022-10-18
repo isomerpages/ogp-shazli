@@ -2,8 +2,8 @@ collections:
   playground:
     output: true
     order:
-      - YouTube.md
-      - Picture Size.md
-      - Hyperlinks.md
-      - PHPC.md
       - Data(dot)gov(dot)sg.md
+      - Hyperlinks.md
+      - Picture Size.md
+      - PHPC.md
+      - YouTube.md
