@@ -4,7 +4,8 @@ title: Shazli from OGP
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: <a href="https://www.w3schools.com">Visit W3Schools</a>
+notification: Welcome to Shazli's test site, this is mainly for him to play
+  around with certain Isomer features!
 sections:
   - hero:
       title: Getting there
@@ -21,9 +22,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-      button: "1234567890123456789012345678901234567890123456789012345678901234567890\
-        12345678901234567890123456789012345678901234567890123456789012345678901\
-        23456789012345678901234567890123456789012345678901234567890"
+      button: Over the rainbow
   - infobar:
       title: Infobar title
       subtitle: Subtitle
