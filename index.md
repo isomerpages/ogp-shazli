@@ -11,18 +11,16 @@ sections:
       title: Getting there
       subtitle: Somehow and somewhere
       background: /images/hero-banner.png
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
-          url: https://google.com
+          url: ""
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
           url: /privacy/
-      button: Over the rainbow
   - infobar:
       title: Infobar title
       subtitle: Subtitle
