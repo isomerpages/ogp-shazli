@@ -4,8 +4,8 @@ title: Shazli from OGP
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to Shazli's test site, this is mainly for him to play
-  around with certain Isomer features!
+notification: <a href="www.google.com">Welcome to Shazli's test site, this click
+  brings you to a Google page</a>
 sections:
   - hero:
       title: Getting there
