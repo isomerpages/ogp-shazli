@@ -3,7 +3,7 @@ title: Anchor
 permalink: /anchor/
 description: This is a meta description
 ---
-<a href="#anchor1"><h2>Anchor 1</h2></a>
+<h2><a href="#anchor1">Anchor 1</a></h2>
 	
 Some text exists here
 
@@ -17,8 +17,6 @@ Some text exists here
 
 
 
-<a href="#anchor"><h2>Anchor 2</h2></a>
+<a href="#anchor">Anchor 2</a>
 	
 Some other text exists here
-
-
