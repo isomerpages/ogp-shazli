@@ -2,9 +2,6 @@
 title: Data(dot)gov(dot)sg
 permalink: /playground/datagovsg
 layout: datagovsg-search
-datagovsg-id: cf5af56a-fce9-4446-8ab3-78289dc1bdec
+datagovsg-id: 5499a442-980e-469c-af1b-f93230a51db3
 description: ""
 ---
-Locations that are administering the Covid-19 Vaccines.
-
-As operating hours may vary, please call the respective clinics for enquiries on the vaccination cut-off time for your preferred date.
