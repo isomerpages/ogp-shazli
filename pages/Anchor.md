@@ -20,3 +20,5 @@ Some text exists here
 <a href="#anchor">Anchor 2</a>
 	
 Some other text exists here
+
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
