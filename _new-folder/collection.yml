@@ -4,7 +4,7 @@ collections:
     order:
       - Ampersand & Ampersand/Example & Title.md
       - Ampersand & Ampersand/.keep
-      - New Subfolder/Ampersand & Ampersand.md
-      - New Subfolder/New Page 1.md
-      - New Subfolder/.keep
+      - New & Subfolder/Ampersand & Ampersand.md
+      - New & Subfolder/New Page 1.md
+      - New & Subfolder/.keep
       - Example Title.md
