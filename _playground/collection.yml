@@ -2,6 +2,7 @@ collections:
   playground:
     output: true
     order:
+      - New Folder/.keep
       - Image Button.md
       - Data(dot)gov(dot)sg.md
       - Hyperlinks.md
