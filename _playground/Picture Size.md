@@ -1,5 +1,5 @@
 ---
 title: Picture Size
-permalink: /playground/picture-size
+permalink: /playground/picture-size/
 description: ""
 ---
