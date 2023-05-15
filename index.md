@@ -4,8 +4,7 @@ title: Shazli from OGP
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: <a href="www.google.com">Welcome to Shazli's test site, this click
-  brings you to a Google page</a>
+notification: This is a notifcation
 sections:
   - hero:
       title: Getting there
