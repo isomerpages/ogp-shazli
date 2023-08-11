@@ -4,7 +4,7 @@ title: Shazli from OGP
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: This is a notifcation
+notification: There will be no school this coming Sunday
 sections:
   - hero:
       title: Getting there
