@@ -12,9 +12,15 @@ sections:
         sector)
       background: /images/hero-banner.png
       key_highlights:
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Speed
+          description: Launch a website in 2 weeks?
+          url: https://www.isomer.gov.sg
+        - title: Reliable
+          description: 1 million in 1 day? No issues
+          url: https://www.isomer.gov.sg
+        - title: Secure
+          description: There're no transactions?
+          url: https://www.isomer.gov.sg
       button: isomer.gov.sg
       url: www.isomer.gov.sg
 ---
