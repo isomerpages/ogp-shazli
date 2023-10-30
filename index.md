@@ -4,11 +4,11 @@ title: Shazli from OGP
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: There will be no school this coming Sunday
+notification: (re)Introducing Isomer with Shazli from Open Government Products
 sections:
   - hero:
-      title: Getting there
-      subtitle: Somehow and somewhere
+      title: (re)Introducing Isomer
+      subtitle: A look at Isomer now and in the future
       background: /images/hero-banner.png
       key_highlights:
         - title: Highlight A
