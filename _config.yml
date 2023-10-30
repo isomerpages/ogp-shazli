@@ -1,9 +1,9 @@
 title: Shazli from OGP
-url: ""
+url: https://www.isomer.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#50e3c2"
+  primary-color: "#276ef1"
+  secondary-color: "#f9f9f9"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -53,3 +53,7 @@ plugins:
 staging: https://staging.d3eswj7uomryi1.amplifyapp.com/
 prod: https://master.d3eswj7uomryi1.amplifyapp.com/
 is_government: true
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+google_analytics_ga4: ""
+linkedin-insights: ""
