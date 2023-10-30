@@ -1,7 +1,0 @@
-collections:
-  shazli25:
-    output: true
-    order:
-      - Test/Table of Events.md
-      - Test/.keep
-      - Year of Celebrations.md
