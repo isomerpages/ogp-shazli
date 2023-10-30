@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Shazli from OGP
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: There will be no school this coming Sunday
