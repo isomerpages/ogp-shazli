@@ -1,5 +1,0 @@
-collections:
-  training:
-    output: true
-    order:
-      - Shazli The Trainer.md
