@@ -40,5 +40,10 @@ contacts:
       - email: web3@abc.gov.sg
       - other: ""
     title: On Web 3
+  - content:
+      - phone: ""
+      - email: shazli@open.gov.sg
+      - other: ""
+    title: ""
 feedback: ""
 ---
