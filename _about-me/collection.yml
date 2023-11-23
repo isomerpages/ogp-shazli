@@ -1,4 +1,5 @@
 collections:
   about-me:
     output: true
-    order: []
+    order:
+      - About Shazli.md
