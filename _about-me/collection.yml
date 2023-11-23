@@ -1,0 +1,4 @@
+collections:
+  about-me:
+    output: true
+    order: []
