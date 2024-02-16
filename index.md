@@ -63,4 +63,12 @@ sections:
           description: Infobox description
         - title: Infobox
           description: Infobox description
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: <br><iframe allowfullscreen="" frameborder="0" height="360"
+        width="100%"
+        src="https://www.vimeo.com/event/4092295/embed/5ce6379f17"></iframe>
+      button: Button Text
 ---
