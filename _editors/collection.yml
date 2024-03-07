@@ -1,4 +1,5 @@
 collections:
   editors:
     output: true
-    order: []
+    order:
+      - New Editor.md
