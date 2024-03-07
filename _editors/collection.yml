@@ -2,5 +2,5 @@ collections:
   editors:
     output: true
     order:
-      - Old style.md
+      - Old Editor.md
       - New Editor.md
