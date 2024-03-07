@@ -4,9 +4,15 @@ permalink: /editors/new/
 variant: tiptap
 description: ""
 ---
-<p><a href="http://www.google.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.google.com.sg</a>
+<blockquote>
+<p>These are two lines that were Shift+Enter-ed in</p>
+</blockquote>
+<p>This is a line
+<br>This is a line
+<br>
 </p>
-<p>i hate shazli
-<br>somuc</p>
-<p>ffff</p>
-<p></p>
+<blockquote>
+<p>These are two lines that were Enter-ed in</p>
+</blockquote>
+<p>This is a line</p>
+<p>This is a line</p>
