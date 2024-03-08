@@ -2,5 +2,6 @@ collections:
   editors:
     output: true
     order:
+      - Version 2.md
       - Old Editor.md
       - New Editor.md
