@@ -2,6 +2,5 @@ collections:
   what-is-isomer:
     output: true
     order:
-      - Test Dash/.keep
       - Reliability.md
       - Speed.md
