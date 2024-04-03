@@ -4,16 +4,14 @@ permalink: /editors/new/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <h2>The Neighbourhood Fair</h2>
-<p></p>
+<p>
+<br>
+</p>
 <p>We are excited to announce that the <strong>neighbourhood fair</strong> is
 back! Tickets are available for purchase <a href="http://www.google.com" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h3>Agenda</h3>
 <p>Here is the fair agenda:</p>
-<p>
-<br>
-</p>
 <table>
 <tbody>
 <tr>
@@ -109,6 +107,4 @@ back! Tickets are available for purchase <a href="http://www.google.com" rel="no
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.802216883744!2d103.84943757475227!3d1.2931212617560333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19a6984dd7cf%3A0x58f49cfe659cf2d5!2sCity%20Hall!5e0!3m2!1sen!2ssg!4v1697695512330!5m2!1sen!2ssg"></iframe>
 </div>
-<p>
-<br>
-</p>
+<p></p>
