@@ -20740,9 +20740,8 @@ crashes
 <br>next_descq_idx = 0x45c,
 <br>coalesce_idx = 0x0,
 <br>flags = 0x0,
-<br>descs = {{
-<br>qw = {0x8024000120dffb00, 0x4} # SDMA_DESC0_FIRST_DESC_FLAG (bit 63)
-<br>}, {
+<br>descs = {
+<br>{
 <br>qw = { 0x3800014231b108, 0x4}
 <br>}, {
 <br>qw = { 0x310000e4ee0fcf0, 0x8}
