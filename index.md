@@ -64,14 +64,9 @@ sections:
         - title: Infobox
           description: Infobox description
   - infobar:
-      title: Instagram
+      title: Infobar
+      subtitle: Add informational text
       id: infobar
-      url: g
-      button: https://www.instagram.com/elis.moe/"><center><script async=""
-        src="//www.instagram.com/embed.js"></script><blockquote
-        style="width:99.375%; width:-webkit-calc (100% - 2px); width:calc (100%
-        - 2px)" class="instagram-media"
-        data-instgrm-permalink="https://www.instagram.com/elis.moe/"
-        data-instgrm-version="14"></blockquote></center><font
-        color="ffffff"></font>Add informational text
+      description: Infobar description
+      button: Button Text
 ---
