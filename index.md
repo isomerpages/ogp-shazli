@@ -67,5 +67,16 @@ sections:
       title: Infobar
       subtitle: Add informational text
       id: infobar
-      description: <center><script src="//www.instagram.com/embed.js" async=""></script><blockquote data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/elis.moe/" class="instagram-media" style="width:99.375%; width:-webkit-calc (100% - 2px); width:calc (100% - 2px)"></blockquote></center><font color="ffffff"></font>
+      description: <center><script src="//www.instagram.com/embed.js"
+        async=""></script><blockquote data-instgrm-version="14"
+        data-instgrm-permalink="https://www.instagram.com/elis.moe/"
+        class="instagram-media" style="width:99.375%; width:-webkit-calc (100% -
+        2px); width:calc (100% - 2px)"></blockquote></center><font
+        color="ffffff"></font>
+      url: <center><script src="//www.instagram.com/embed.js"
+        async=""></script><blockquote data-instgrm-version="14"
+        data-instgrm-permalink="https://www.instagram.com/elis.moe/"
+        class="instagram-media" style="width:99.375%; width:-webkit-calc (100% -
+        2px); width:calc (100% - 2px)"></blockquote></center><font
+        color="ffffff"></font>
 ---
