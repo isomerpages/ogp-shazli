@@ -64,11 +64,13 @@ sections:
         - title: Infobox
           description: Infobox description
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: Instagram
       id: infobar
-      description: <br><iframe allowfullscreen="" frameborder="0" height="360"
-        width="100%"
-        src="https://www.vimeo.com/event/4092295/embed/5ce6379f17"></iframe>
-      button: Button Text
+      url: https://www.instagram.com/elis.moe/"><center><script async=""
+        src="//www.instagram.com/embed.js"></script><blockquote
+        style="width:99.375%; width:-webkit-calc (100% - 2px); width:calc (100%
+        - 2px)" class="instagram-media"
+        data-instgrm-permalink="https://www.instagram.com/elis.moe/"
+        data-instgrm-version="14"></blockquote></center><font
+        color="ffffff"></font>Add informational text
 ---
