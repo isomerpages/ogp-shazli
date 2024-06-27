@@ -1,0 +1,8 @@
+collections:
+  editors:
+    output: true
+    order:
+      - A Subfolder/.keep
+      - Version 2.md
+      - Old Editor.md
+      - New Editor.md

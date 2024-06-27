@@ -1,0 +1,5 @@
+collections:
+  about-me:
+    output: true
+    order:
+      - About Shazli.md

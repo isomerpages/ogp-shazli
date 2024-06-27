@@ -1,0 +1,6 @@
+collections:
+  what-is-isomer:
+    output: true
+    order:
+      - Reliability.md
+      - Speed.md

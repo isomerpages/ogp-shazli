@@ -1,0 +1,8 @@
+logo: /images/isomer-logo.svg
+links:
+  - title: Newsroom
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us
+  - title: New or Old Editor
+    collection: editors
