@@ -66,7 +66,8 @@ sections:
   - infobar:
       title: Instagram
       id: infobar
-      url: https://www.instagram.com/elis.moe/"><center><script async=""
+      url: g
+      button: https://www.instagram.com/elis.moe/"><center><script async=""
         src="//www.instagram.com/embed.js"></script><blockquote
         style="width:99.375%; width:-webkit-calc (100% - 2px); width:calc (100%
         - 2px)" class="instagram-media"
